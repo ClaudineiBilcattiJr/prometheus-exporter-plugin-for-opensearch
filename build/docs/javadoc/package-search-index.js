@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.compuscene.metrics.prometheus"},{"l":"org.opensearch.action"},{"l":"org.opensearch.action.admin.indices.stats"},{"l":"org.opensearch.plugin.prometheus"},{"l":"org.opensearch.rest.prometheus"}];updateSearchResults();

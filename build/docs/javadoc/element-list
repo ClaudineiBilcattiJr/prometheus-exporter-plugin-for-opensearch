@@ -1,0 +1,5 @@
+org.compuscene.metrics.prometheus
+org.opensearch.action
+org.opensearch.action.admin.indices.stats
+org.opensearch.plugin.prometheus
+org.opensearch.rest.prometheus
